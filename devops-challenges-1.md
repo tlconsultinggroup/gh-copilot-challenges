@@ -6,15 +6,19 @@ Jake's manager emphasizes the importance of following best practices, including 
 
 ---
 
+![devops-image1](images/devops1.jpeg)
+
 ## **The Challenge**
 
 Jake's task is to:
+
 1. Create a well-structured project with modular Terraform scripts to manage various components like resource groups, networks, and VMs.
+   
 2. Follow best practices for organizing Terraform projects and maintaining code clarity.
 
 ---
 
-### **Prerequisite: Check if Terraform is Installed ?**
+### Check if Terraform is Installed
 
 Before Jake can start automating Azure VM provisioning, he needs to ensure that Terraform is installed on his workstation. Here are the steps to check if Terraform is installed and how to install it if it's not already available.
 
@@ -192,5 +196,9 @@ Jake successfully automated Azure VM provisioning by:
 3. Ensuring scalability and consistency across deployments.
    
 Jake's efforts streamlined operations and reduced deployment times, showcasing the power of Terraform in modern DevOps workflows.
+
+### **Verify the Solution**
+
+If you want to verify the solution to this challenge, you can access it at 📕[devops-challenges-1-solution](devops-challenges-1-solution.md). Feel free to review it, get enlightened, and enjoy the process!
 
 

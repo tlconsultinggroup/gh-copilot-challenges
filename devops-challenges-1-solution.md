@@ -189,7 +189,7 @@ output "vm_id" {
 }
 ```
 
-### **SStep 4: Integrate Modules in the Root Configuration**
+### **Step 4: Integrate Modules in the Root Configuration**
 
 Jake uses the modules in main.tf to define the infrastructure:
 
