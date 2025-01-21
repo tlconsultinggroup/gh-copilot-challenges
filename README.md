@@ -12,10 +12,15 @@ Welcome to the GitHub Copilot Challenges! This repository contains a series of c
    - [View the solution](devops-challenges-1-solution.md)
 
 
- 2. **Containerizing an Application**: Join Jake, a DevOps engineer, as he tackles the challenge of containerizing a JavaScript application using Docker. Learn how to create a Docker image, ensure it's lightweight and production-ready, and enable seamless deployment across various environments.
+2. **Containerizing an Application**: Join Jake, a DevOps engineer, as he tackles the challenge of containerizing a JavaScript application using Docker. Learn how to create a Docker image, ensure it's lightweight and production-ready, and enable seamless deployment across various environments.
 
-    - [Read the challenge](devops-challenges-2.md)
-    - [View the solution](devops-challenges-2-solution.md)
+ - [Read the challenge](devops-challenges-2.md)
+ - [View the solution](devops-challenges-2-solution.md)
+
+3. **File Management and Reporting Automation**: Follow Sally, a seasoned DevOps Engineer at TechEdge Solutions, as she addresses the challenges of automating file renaming and report generation. Learn how to create a Python utility for renaming files based on specific patterns and generate structured reports from data.
+
+   - [Read the challenge](devops-challenges-3.md)
+   - [View the solution](devops-challenges-3-solution.md)
 
 ## Getting Started
 

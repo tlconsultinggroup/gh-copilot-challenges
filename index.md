@@ -18,12 +18,11 @@ Dive in, build solutions with Github Copilot and have fun 🎉!
 
 ## DevOps
 
-### Automating Azure sVM Provisioning
+### Automating Azure VM Provisioning
 
-Meet Jake, an operations engineer at **TechFusion Corp**. Jake is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times. Follow Jake's journey and learn how to create reusable and modular Terraform scripts to manage various components like resource groups, networks, and VMs.
+Meet Jake, an operations engineer at TechFusion Corp**. Jake is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times. Follow Jake's journey and learn how to create reusable and modular Terraform scripts to manage various components like resource groups, networks, and VMs.
 
 [Get started ➡️](devops-challenges-1.md)
-
 
 ### Containerizing an Application
 
@@ -32,5 +31,13 @@ Meet Jake again, this time he is faced with the challenge of containerizing a Ja
 Follow Jake's journey and learn how to containerize an application step-by-step.
 
 [Get started ➡️](devops-challenges-2.md)
+
+### File Management and Reporting Automation
+
+Recently, Sally has been tasked with addressing two pressing challenges that hinder the efficiency of file management and reporting workflows.
+
+Follow Sally's journey and learn how to automate file renaming and report generation to improve accuracy and consistency in workflows.
+
+[Get started ➡️](devops-challenges-3.md)
 
 ![Working Geek](images/working-geek.jpg)
