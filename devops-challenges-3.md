@@ -39,11 +39,11 @@ Before diving into the solutions, Sally must ensure the following:
      pip install pandas
      ```
 
-#### Task 1: File Renaming Utility
+### Task 1: File Renaming Utility
 
 To help automate the file renaming task, let's start by defining some key rules for renaming files. 
 
-### File Naming Rules
+#### File Naming Rules
 
 1. Add a prefix to the file names.
 2. Ensure all file names are in lowercase.
@@ -53,7 +53,7 @@ To help automate the file renaming task, let's start by defining some key rules 
 
 Could you please create two files with incorrect names in your project folder? 
 
-### Example Files
+#### Example Files
 
 1. `Incorrect Name 1.txt`
 2. `Another Incorrect Name 2.txt`
@@ -62,7 +62,7 @@ Could you please create two files with incorrect names in your project folder?
 
 Could you build the automation to work on above two files and fix their names according to the rules we establish ?
 
-####  Task 2: Report Generator
+###  Task 2: Report Generator
 
 1. Input data for the report - [report-data](data/report-data.json)
 
@@ -82,7 +82,7 @@ Could you build the automation to work on above two files and fix their names ac
 Need to generate a script to automate the report generation for the input data "report-data.json" as per the  report requirements outlined using python, pandas to summarise based on departments ?
 
 
-#### Conclusion
+### Conclusion
 
 With these utilities in place, Sally successfully tackles the challenges of file renaming and report generation. His solutions not only save time but also improve accuracy and consistency in TechEdge Solutions’ workflows. Sally’s efforts highlight the importance of automation in modern DevOps practices.
 
