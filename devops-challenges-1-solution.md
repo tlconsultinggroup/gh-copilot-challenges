@@ -2,7 +2,7 @@
 
 ### 📝 Solution
 
-Meet Jake, an operations engineer at **TechFusion Corp**. Jake is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times.
+Meet Jake, an operations engineer at TechFusion Corp. Jake is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times.
 
 Jake's manager emphasizes the importance of following best practices, including modularizing Terraform scripts and ensuring they are reusable. With determination and a clear plan, Jake embarks on this task.
 

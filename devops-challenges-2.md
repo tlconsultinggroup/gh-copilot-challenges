@@ -1,6 +1,6 @@
 # Containerizing an Application: A DevOps Challenge for Jake
 
-Meet Jake, a DevOps engineer at a mid-sized tech company. Jake’s team recently developed a "Hello World" JavaScript application that showcases the fundamentals of web development. However, they’ve identified a challenge: to ensure the application runs consistently across various environments, they need to containerize it using Docker.
+Meet Jake, a DevOps engineer at a mid-sized tech company. Jake’s team recently developed a JavaScript application that showcases the fundamentals of web development. However, they’ve identified a challenge: to ensure the application runs consistently across various environments, they need to containerize it using Docker.
 
 In this article, we’ll walk through the problem statement, the challenges Jake faces, the tools he needs, and the steps he can take to containerize the application.
 
@@ -42,6 +42,8 @@ Before Jake begins, he needs to ensure the following tools are installed on his 
 
 
 ### 1. **Prepare the Application**
+
+**Question**
 Hey Jake, do you have the `index.html` file ready for the JavaScript application? 
 
 If not, you can [download app file](apps/js/index.html) and place it in the `hello-world-app/` directory as shown below:
@@ -55,7 +57,8 @@ Once you have the file in place, you can proceed with the next steps to containe
 
 ### 2. Create a Dockerfile
 
-Hey Jake, could you create a `Dockerfile` in the `hello-world-app/` directory to containerize the "Hello World" application?
+**Question**
+Hey Jake, could you create a `Dockerfile` in the `hello-world-app/` directory to containerize the  application?
 
 ```plaintext
 hello-world-app/
@@ -64,6 +67,7 @@ hello-world-app/
 
 ### 3. Build the Docker Image
 
+**Question**
 Hey Jake, are you ready to build the Docker image for your application? Just run the following command in your terminal:
 
 ```plaintext
@@ -75,7 +79,7 @@ This will create a Docker image named `hello-world-app` using the Dockerfile you
 
 ### 4. Run the Container locally
 
-
+**Question**
 Hey Jake, are you ready to run the containerized application locally to see it in action? You can use the following command to start the container:
 
 ```plaintext

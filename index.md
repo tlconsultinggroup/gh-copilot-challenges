@@ -20,7 +20,7 @@ Dive in, build solutions with Github Copilot and have fun 🎉!
 
 ### Automating Azure VM Provisioning
 
-Meet Jake, an operations engineer at TechFusion Corp**. Jake is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times. Follow Jake's journey and learn how to create reusable and modular Terraform scripts to manage various components like resource groups, networks, and VMs.
+Meet Jake, an operations engineer. He is tasked with automating the process of provisioning virtual machines (VMs) on Microsoft Azure. The goal is to eliminate manual steps, ensure consistency, and reduce deployment times. Follow Jake's journey and learn how to create reusable and modular Terraform scripts to manage various components like resource groups, networks, and VMs.
 
 [Get started ➡️](devops-challenges-1.md)
 
