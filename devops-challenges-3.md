@@ -49,7 +49,8 @@ To help automate the file renaming task, let's start by defining some key rules 
 2. Ensure all file names are in lowercase.
 3. Replace spaces with underscores.
 
-**Question**
+🚨 **Question**
+
 Could you please create two files with incorrect names in your project folder? 
 
 ### Example Files
@@ -57,7 +58,8 @@ Could you please create two files with incorrect names in your project folder?
 1. `Incorrect Name 1.txt`
 2. `Another Incorrect Name 2.txt`
 
-**Question**
+🚨 **Question**
+
 Could you build the automation to work on above two files and fix their names according to the rules we establish ?
 
 ####  Task 2: Report Generator
@@ -75,7 +77,8 @@ Could you build the automation to work on above two files and fix their names ac
 
 3. Write the Script:
 
-**Question**
+🚨 **Question**
+
 Need to generate a script to automate the report generation for the input data "report-data.json" as per the  report requirements outlined using python, pandas to summarise based on departments ?
 
 

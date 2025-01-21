@@ -1,5 +1,7 @@
 # Sally's DevOps Adventure: File Management and Reporting Automation
 
+### 📝 Solution
+
 Meet Sally, a seasoned DevOps Engineer at TechEdge Solutions, a fast-growing company specializing in cloud infrastructure and automation tools. Sally's role involves streamlining processes, automating repetitive tasks, and ensuring smooth operations for the company. Recently, Sally has been tasked with addressing two pressing challenges that hinder the efficiency of file management and reporting workflows.
 
 ### Tasks to Accomplish

@@ -43,7 +43,8 @@ Before Jake begins, he needs to ensure the following tools are installed on his 
 
 ### 1. **Prepare the Application**
 
-**Question**
+🚨 **Question**
+
 Hey Jake, do you have the `index.html` file ready for the JavaScript application? 
 
 If not, you can [download app file](apps/js/index.html) and place it in the `hello-world-app/` directory as shown below:
@@ -57,7 +58,8 @@ Once you have the file in place, you can proceed with the next steps to containe
 
 ### 2. Create a Dockerfile
 
-**Question**
+🚨 **Question**
+
 Hey Jake, could you create a `Dockerfile` in the `hello-world-app/` directory to containerize the  application?
 
 ```plaintext
@@ -67,7 +69,8 @@ hello-world-app/
 
 ### 3. Build the Docker Image
 
-**Question**
+🚨 **Question**
+
 Hey Jake, are you ready to build the Docker image for your application? Just run the following command in your terminal:
 
 ```plaintext
@@ -79,7 +82,8 @@ This will create a Docker image named `hello-world-app` using the Dockerfile you
 
 ### 4. Run the Container locally
 
-**Question**
+🚨 **Question**
+
 Hey Jake, are you ready to run the containerized application locally to see it in action? You can use the following command to start the container:
 
 ```plaintext

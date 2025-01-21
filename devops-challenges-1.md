@@ -71,7 +71,8 @@ With Terraform installed, Jake is ready to proceed with automating **Azure VM** 
 
 Jake starts by organizing the project directory for modularization and scalability.
 
-**Question**
+🚨 **Question**
+
 Can you help Jake build the following folder structure in the workspace to get started?
 
 ```plaintext
@@ -99,7 +100,8 @@ This structure would allow Jake to create reusable modules for different infrast
 
 ### **Step 2: Define the Azure Provider**
 
-**Question**
+🚨 **Question**
+
 Jake, can you create a `provider.tf` file in the root directory to configure Azure as the cloud provider?
 
 ```plaintext
@@ -112,7 +114,8 @@ This enables Terraform to interact with Azure resources.
 
 ### **Step 3: Create Terraform Modules**
 
-**Question**
+🚨 **Question**
+
 Jake, can you create the necessary Terraform modules for resource groups, networks, and virtual machines? Each module should have its own directory with `main.tf`, `variables.tf`, and `outputs.tf` files. Ensure that the modules are reusable and follow best practices for Terraform configurations. Here's a breakdown of what each module should include:
 
 1. **Resource Group Module**:
@@ -130,7 +133,8 @@ Can you proceed with creating these modules?
 
 ### **Step 4: Integrate Modules in the Root Configuration**
 
-**Question**
+🚨 **Question**
+
 Jake, could you help us integrate the modules into the root configuration? We need to use the modules in `main.tf` to define the infrastructure. Here's how you can do it:
 
 This will help us define the infrastructure using the modules you created in previous step.
