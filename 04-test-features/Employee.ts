@@ -60,9 +60,3 @@ class Employee {
 
 export default Employee;
 
-// Example test cases
-const employee = new Employee(1, 'John Doe', 'Software Engineer', 50000);
-expect(employee.getPosition()).toBe('Software Engineer');
-expect(employee.getSalary()).toBe(50000);
-const bonus = employee.calculateBonus();
-expect(bonus).toBe(5000); // Example test for bonus calculation
